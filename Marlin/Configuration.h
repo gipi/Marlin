@@ -122,6 +122,8 @@
   #define MOTHERBOARD BOARD_RAMPS_13_EFB
 #endif
 
+#define PINS_DEBUGGING
+
 // Optional custom name for your RepStrap or other custom machine
 // Displayed in the LCD "Ready" message
 #define CUSTOM_MACHINE_NAME "ANET A8 Marlin 1.1"
